@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Little on Early History in Machine Learning"
-date:   2019-01-05 17:19:00 -0800
+date:   2019-01-05 12:00:00 -0800
 ---
 
 I read this quote in ["Marvin Minsky's Vision of the Future"](https://www.newyorker.com/magazine/1981/12/14/a-i) by Jeremy Bernstein (1981) in _The New Yorker_:

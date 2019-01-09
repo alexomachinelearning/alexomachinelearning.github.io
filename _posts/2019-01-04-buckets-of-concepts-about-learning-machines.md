@@ -2,6 +2,8 @@
 layout: post
 title: "Buckets of Concepts About Learning Machines"
 date:   2019-01-04 12:00:00 -0800
+redirect_from:
+  - /2019-01-04-buckets-of-concepts-about-learning-machines.html
 ---
 
 Figuring out how to sort new knowledge is part of the process of discovery and learning. When you encounter new things, your brain needs a place to sort them into. By analogy, knowing the separation between a person, place, or thing allows you to make sense of new information you encounter regarding people, locations, and objects as you move through the world. It's a process of encountering and sorting, sorting and encountering, in a cycle. But when you're starting out in an entirely new field of knowledge, you won't have either the buckets or the knowledge. But we need structure in order to learn.

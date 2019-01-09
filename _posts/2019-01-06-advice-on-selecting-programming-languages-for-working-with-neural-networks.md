@@ -2,6 +2,8 @@
 layout: post
 title: "Advice on Selecting Programming Languages for Working with Neural Networks"
 date:   2019-01-06 12:00:00 -0800
+redirect_from:
+  - /2019-01-06-advice-on-selecting-programming-languages-for-working-with-neural-networks.html
 ---
 
 One of my long-term goals for this blog is to build neural networks of my own and to share them with the world. I'll start by learning about machine learning, then proceed to deeply inspect how we train learning machines, and then apply that knowledge to build architectures for such learning.

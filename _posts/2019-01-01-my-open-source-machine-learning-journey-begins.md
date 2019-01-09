@@ -3,7 +3,7 @@ layout: post
 title: "My Open-Source Machine Learning Journey Begins"
 date:   2019-01-01 14:57:00 -0800
 redirect_from:
-  - /2019-01-01-my-open-source-machine-learning-journey-begins.html
+  - /2019/01/01/my-open-source-machine-learning-journey-begins.html
 ---
 Earlier today on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6485926687635832832), I wrote the following:
 

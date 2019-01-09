@@ -3,7 +3,7 @@ layout: post
 title: "Should Machines Learn to Process Speech before They Learn to Process Text?"
 date:   2019-01-03 12:00:00 -0800
 redirect_from:
-  - /2019-01-03-should-machines-learn-to-process-speech-before-they-learn-to-process-text.html
+  - /2019/01/03/should-machines-learn-to-process-speech-before-they-learn-to-process-text.html
 ---
 
 Today I asked a question in a comment on LinkedIn. My question was, essentially, if there is an advantage to teaching machine learning models to process speech before we teach them to process text. Let me walk you through my reasoning.

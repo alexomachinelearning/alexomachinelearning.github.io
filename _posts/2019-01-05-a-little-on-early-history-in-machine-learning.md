@@ -3,7 +3,7 @@ layout: post
 title: "A Little on Early History in Machine Learning"
 date:   2019-01-05 12:00:00 -0800
 redirect_from:
-  - /2019-01-05-a-little-on-early-history-in-machine-learning.html
+  - /2019/01/05/a-little-on-early-history-in-machine-learning.html
 ---
 
 I read this quote in ["Marvin Minsky's Vision of the Future"](https://www.newyorker.com/magazine/1981/12/14/a-i) by Jeremy Bernstein (1981) in _The New Yorker_:

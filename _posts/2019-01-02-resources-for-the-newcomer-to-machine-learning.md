@@ -3,7 +3,7 @@ layout: post
 title: "Resources for the Newcomer to Machine Learning"
 date:   2019-01-02 13:02:00 -0800
 redirect_from:
-  - /2019-01-02-resources-for-the-newcomer-to-machine-learning.html
+  - /2019/01/02/resources-for-the-newcomer-to-machine-learning.html
 ---
 Learning how to learn something new is always tricky. It's a bit like figuring out how to build a shelf to put new knowledge on before you know what kind of knowledge you'll acquire, how long or high the shelves should be, or which tools you'll need to build the shelves themselves.
 

@@ -2,6 +2,9 @@
 layout: post
 title: "Small Fleet Networks (SFNs) and the Need for Distributed Black Boxes in Future Self-Driving Systems"
 date:   2019-01-08 12:00:00 -0800
+redirect_from:
+  - /2019/01/08/small-fleet-networks-sfns-and-the-need-for-distributed-black-boxes-in-future-self-driving-systems.html
+
 ---
 
 Here are some preliminary thoughts on general design requirements of self-driving networks. In the future, small fleets of networked vehicles will likely communicate, in a decentralized way, with one another as the fleets move. In addition to this fleet-to-fleet communication, there will likely be a need for fleet-to-system communication, with each small fleet communicating at regular intervals with a systemwide architectural layer. Finally, each "small fleet network" (SFN) will need a means of ensuring trusted communication among the vehicles that make up the group at a given point in time, as well as a mechanism to rapidly record vital information contributed to a **distributed black box**.

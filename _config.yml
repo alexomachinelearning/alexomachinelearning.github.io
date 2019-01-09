@@ -29,7 +29,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:categories/:year/:month/:day/:title/
+  - jekyll-redirect-from
+
+permalink: pretty
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

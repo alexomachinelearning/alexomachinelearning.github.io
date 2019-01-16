@@ -1,0 +1,17 @@
+---
+layout: post
+title: "It'll Be a Long While Before We Have Software Sales Rep AI"
+date:   2019-01-15 12:00:00 -0800
+
+---
+A question was [posed on LinkedIn today](https://www.linkedin.com/feed/update/urn:li:activity:6490579325488820224) related to what motivations sales leaders might have to supplant salespeople with AI sales tools. The question made me reflect on what I've learned so far about how learning models are trained, the specialized nature of different machine learning software applications, and, as far as I'm thus far concerned, the lack of systems able to combine hundreds, or even dozens, of learning models under one sophisticated ecosystem or interface. My assessment at this time is that we have nothing with anywhere near the capabilities required to handle a complex sales conversation, much less everything required to carry out the complete work of a job class such as "software sales representative".
+
+My response, which was not directed at the questioner but rather at the question, included this:
+
+>Former software sales rep / AE here. From what I’m learning about machine learning and AI, the tech is good and is getting better, but AI software is super duper specialized to [the] particular tasks it’s been trained to do. I’m talking granular, and each of those software packages cost money, time, and in some cases custom business data to implement and roll out. There’s no Sales Rep AI yet, as building that would take assembling specialized software that can perform hundreds of different, specialized tasks, and it would probably cost many many [sic] millions of dollars to train all the different neural networks and learning models that would need to run predictions on data of all sorts in order to get to a “Sales Rep AI” in production. It’s going to be a while. So I don’t yet know how this replacement conversation is being had in the market.
+
+The cost of machine learning isn't something I'd considered before. I can't imagine how much money has been spent to train DeepMind to play Go, teach Tesla Autopilot to self-park and switch lanes, or get Amazon Comprehend to classify documents reliably and securely. But those software solutions are good only at what they've been trained to do, and even then, I don't yet see a path to building or deploying general-purpose software capable of automation and prediction across the many task categories needed to carry out complex work. To get to Sales Rep AI would require concerted and significant R&D as well as the integration of a very large number of individual machine learning systems.
+
+On the flip side, the SaaS pricing models for using machine learning APIs to perform services such as [those offered by Amazon Comprehend](https://aws.amazon.com/comprehend/pricing/) are becoming, seemingly, attractive. Once many technologies are built and offered at attractive pay-as-you-go rates, and once those many technologies' APIs can be integrated into a holistic software system capable of carrying out an array of classification and regression tasks in near-real time, then perhaps AI tools for sales will become useful, scalable, and cost-effective enough to use. And that's before the question of who's going to sell those tools to the IT organizations that oversee new software implementations within sales enterprises.
+
+For now, my thinking is that there is no AI alternative for anything but the most mundane of sales tasks, things most sales reps would rather not be doing anyway.

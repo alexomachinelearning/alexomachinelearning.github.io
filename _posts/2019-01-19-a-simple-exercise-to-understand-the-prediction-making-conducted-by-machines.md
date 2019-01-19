@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Simple Exercise to Understand the Prediction-Making Conducted by Machines"
-date:   2019-01-18 12:00:00 -0800
+date:   2019-01-19 12:00:00 -0800
 
 ---
 In school, after we learn that a line is made by connecting two points, after we learn how to draw such a line into a 2D Cartesian graph, and after we learn that such a graph has an *x* axis that extends from left to right and a *y* axis that extends from top to bottom, we also learn that the slope of a line can be calculated with the following formula...

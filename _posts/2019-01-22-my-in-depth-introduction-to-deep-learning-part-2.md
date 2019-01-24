@@ -4,7 +4,7 @@ title: "My In-Depth Introduction to Deep Learning Basics (Part 2)"
 date:   2019-01-22 12:00:00 -0800
 
 ---
-Yesterday in ["My In-Depth Introduction to Deep Learning Basics (Part 2)"](), I went through the first 40% of the slides in the first lecture of Lex Fridman's MIT Deep Learning course _6.S094: Deep Learning for Self-Driving Cars_. Those slides can be found [here](https://www.dropbox.com/s/c0g3sc1shi63x3q/deep_learning_basics.pdf?dl=0#). While doing so, I made comments related to questions, ideas, connections, and learnings from the last few weeks connected to the slides. Today's post continues where I left off: slide 23 and beyond.
+Yesterday in ["My In-Depth Introduction to Deep Learning Basics (Part 1)"](https://ahumanlearningmachinelearning.com/2019/01/21/my-in-depth-introduction-to-deep-learning-part-1/), I went through the first 40% of the slides in the first lecture of Lex Fridman's MIT Deep Learning course _6.S094: Deep Learning for Self-Driving Cars_. Those slides can be found [here](https://www.dropbox.com/s/c0g3sc1shi63x3q/deep_learning_basics.pdf?dl=0#). While doing so, I made comments related to questions, ideas, connections, and learnings from the last few weeks connected to the slides. Today's post continues where I left off: slide 23 and beyond.
 
 ## The Slide into Deep Learning Continues
 

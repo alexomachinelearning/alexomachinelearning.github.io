@@ -26,7 +26,7 @@ If you rearrange the equation for Bayes' thereom such that the denominator is mo
 
 **P(A\|B)P(B) = P(B\|A)P(A)**
 
-We could also rearrange Bayes' equation such that the _conditional probabilities_ P(A|B) and P(B|A) are both on the left and the _independent probabilities_ P(A) and P(B) are both on the right:
+We could also rearrange Bayes' equation such that the _conditional probabilities_ P(A\|B) and P(B\|A) are both on the left and the _independent probabilities_ P(A) and P(B) are both on the right:
 
 **P(A\|B)/P(B\|A) = P(A)/P(B)**
 

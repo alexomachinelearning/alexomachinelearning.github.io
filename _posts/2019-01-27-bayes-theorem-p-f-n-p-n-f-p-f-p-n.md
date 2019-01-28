@@ -8,7 +8,7 @@ I'm trying to make sense of Bayes' Theorem here. So starts the Wikipedia article
 
 > In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule) describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
 
-A month ago, I learned that the mathematical equivalent of the concept in that sentence is **P(A|B) = P(B|A)P(A)/P(B)**. It can be read, per Dan Morris's [_Bayes Thereom: A Visual Introduction for Beginners_](https://www.bayestheorem.net/bayes-theorem-formula/), as _the probability of A being true given that B is true is equal to the probability that B is true given that A is true, multiplied by the probability that A is true, divided by the probability that B is true_.
+A month ago, I learned that the mathematical equivalent of the concept in that sentence is **P(A\|B) = P(B\|A)P(A)/P(B)**. It can be read, per Dan Morris's [_Bayes Thereom: A Visual Introduction for Beginners_](https://www.bayestheorem.net/bayes-theorem-formula/), as _the probability of A being true given that B is true is equal to the probability that B is true given that A is true, multiplied by the probability that A is true, divided by the probability that B is true_.
 
 On the right-hand side of the equation, what we have in the numerator is "the probability that B is true given that A is true, multiplied by the probability that A is true".
 
@@ -24,11 +24,11 @@ In the denominator, we have "the probability that B is true":
 ## Rearranging
 If you rearrange the equation for Bayes' thereom such that the denominator is moved the left side, we get "the probability of A being true given that B is true, multiplied by the probability that B is true", and, on the right side, what remains is "the probability that B is true given that A is true, multiplied by the probability that A is true":
 
-**P(A|B)P(B) = P(B|A)P(A)**
+**P(A\|B)P(B) = P(B\|A)P(A)**
 
 We could also rearrange Bayes' equation such that the _conditional probabilities_ P(A|B) and P(B|A) are both on the left and the _independent probabilities_ P(A) and P(B) are both on the right:
 
-**P(A|B)/P(B|A) = P(A)/P(B)**
+**P(A\|B)/P(B\|A) = P(A)/P(B)**
 
 If we did that, we could read this as "the probability that A is true given that B is true, divided by the probability that B is true given that A is true, is equal to the probability that A is true divided by the probability that B is true".
 
